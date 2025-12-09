@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "applertm",
+    "name": "AppleRTM",
+    "version": "1.0",
+    "description": "FixRtmByApple",
+    "authorList": ["Applepie"]
+  }
+]

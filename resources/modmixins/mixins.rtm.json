@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "jp.apple.rtm.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.rtm.refmap.json",
+  "mixins": [
+    "ModelSetVehicleBaseMixin",
+    "VehicleBaseConfigMixin",
+    "RenderVehicleBaseMixin"
+  ],
+  "mods": [
+    "rtm"
+  ]
+}
