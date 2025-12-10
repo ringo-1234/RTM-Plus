@@ -2,8 +2,7 @@
 
 [English](README.en.md) | [日本語](README.md)
 
-[Minecraft](https://www.minecraft.net/ja-jp)
-[forge1.12.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
+[Minecraft](https://www.minecraft.net/ja-jp) | [forge1.12.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
 
 # 最新版のダウンロードは[こちら](https://github.com/Kai-Z-JP/KaizPatchX/releases/latest) から
 
