@@ -2,7 +2,7 @@
 
 [English](README.en.md) | [日本語](README.md)
 
-[![MCVer](https://img.shields.io/badge/Minecraft-1.12.2-brightgreen)](https://www.minecraft.net/)
+[![MCVer](https://www.minecraft.net/ja-jp)
 [![ForgeVer](https://img.shields.io/badge/Forge-10.13.4.1614-important)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
 # 最新版のダウンロードは[こちら](https://github.com/Kai-Z-JP/KaizPatchX/releases/latest) から
