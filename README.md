@@ -2,8 +2,8 @@
 
 [English](README.en.md) | [日本語](README.md)
 
-[![MCVer](https://www.minecraft.net/ja-jp)]
-[![ForgeVer](https://img.shields.io/badge/Forge-10.13.4.1614-important)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+[Minecraft](https://www.minecraft.net/ja-jp)
+[forge1.12.2](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
 # 最新版のダウンロードは[こちら](https://github.com/Kai-Z-JP/KaizPatchX/releases/latest) から
 
