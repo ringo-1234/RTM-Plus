@@ -8,7 +8,7 @@
 
 ## このModはなにか
 
-RTM-PlusはRealTrainMod(RTM)の非公式拡張版です\
+RTM-PlusはRealTrainMod(RTM)の非公式拡張版です
 
 ## 注意事項
 
