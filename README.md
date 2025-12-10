@@ -16,5 +16,4 @@ RTM-PlusはRealTrainMod(RTM)の非公式拡張版です
 
 ## 導入方法
 
-1.当ModをDLし、modsフォルダに入れてください\
-2.完了
+当ModをDLし、modsフォルダに入れてください
