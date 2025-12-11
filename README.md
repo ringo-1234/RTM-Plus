@@ -17,3 +17,5 @@ RTM-PlusはRealTrainMod(RTM)の非公式拡張版です
 ## 導入方法
 
 当ModをDLし、modsフォルダに入れてください
+
+## 詳しくは[こちら](https://ringo-1234.github.io/Applepie-site/)
